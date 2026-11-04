@@ -15,3 +15,6 @@ Add the purchased domain in Vercel Settings → Domains and apply the DNS record
 ## Content still to complete
 
 Use the actual iSynq product screenshot for Mistiva when the original asset is available. Add Francisco’s approved portrait to About. Do not present a fictitious portrait as Alexey. Keep TRAZZO demonstrations anonymized and methodology on case detail pages.
+
+## Article downloads
+The 15 complete articles are published as HTML. Review PDF exports and worksheets are archived outside the deployment until publication-ready exports replace them.
