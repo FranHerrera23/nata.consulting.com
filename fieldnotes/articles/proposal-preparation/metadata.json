@@ -1,0 +1,60 @@
+{
+  "id": "N04",
+  "h1": "What Should Be Decided Before You Write a Project Proposal?",
+  "seo_title": "Project Proposal Preparation for Design Studios | NATA",
+  "meta_description": "A project proposal should describe an understood assignment: the outcome being pursued, the work included, the inputs required, and the decisions that remain open.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "proposal-preparation",
+  "intent": "informational preparation",
+  "intent_evidence": "Adjacent template queries reported; preparation is a distinct task",
+  "primary_question": "What Should Be Decided Before You Write a Project Proposal?",
+  "section_questions": [
+    "What kind of project proposal are you preparing?",
+    "What should a proposal brief contain?",
+    "Which parts of a project proposal can you reuse?",
+    "How do you scope a lighting proposal when the request is unclear?",
+    "How can you check whether the proposal is clear enough to send?",
+    "What should happen to the proposal brief after submission?"
+  ],
+  "answer_capsule": "A project proposal should describe an understood assignment: the outcome being pursued, the work included, the inputs required, and the decisions that remain open. Reusing the document structure helps. Reusing the previous project’s assumptions can create a different assignment from the one the client thinks they are buying.",
+  "takeaways": [
+    "Define the type of assignment before opening a template.",
+    "Separate reusable information from project-specific judgment.",
+    "Carry the submitted scope into delivery."
+  ],
+  "faqs": [
+    {
+      "question": "Is a proposal preparation record the same as a contract?",
+      "answer": "No. It organizes the assignment and open decisions before submission. The applicable agreement governs the engagement; the record does not replace project-specific contractual or professional review."
+    },
+    {
+      "question": "Can a studio send a proposal with unresolved questions?",
+      "answer": "Yes, when it makes the uncertainty and its consequences explicit. Clarify whether the proposal is preliminary, limited to an initial stage, or dependent on named inputs before later work can be committed."
+    },
+    {
+      "question": "Will this preparation guide produce a finished proposal template?",
+      "answer": "No. It helps establish what the proposal should say and what must be resolved. The final format and terms depend on the service, project, and studio."
+    }
+  ],
+  "sources": [
+    "https://www.uia-architectes.org/wp-content/uploads/2022/03/guideline_for_procurement_of_architectural_services_2017.11.07.pdf"
+  ],
+  "related_ids": [
+    "N05",
+    "N11"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

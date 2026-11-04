@@ -1,0 +1,60 @@
+{
+  "id": "N14",
+  "h1": "Should You Build a Custom Workflow or Use Existing Software?",
+  "seo_title": "Build vs Buy Software: A Workflow Decision Framework | NATA",
+  "meta_description": "The right choice depends on the task, its constraints, and the cost of keeping the solution useful.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "build-or-buy",
+  "intent": "commercial investigation",
+  "intent_evidence": "Decision-support hypothesis; exact search demand unmeasured",
+  "primary_question": "Should You Build a Custom Workflow or Use Existing Software?",
+  "section_questions": [
+    "How should you define a workflow software requirement?",
+    "What alternatives should you compare with a custom build?",
+    "What should you test first in a build-versus-buy decision?",
+    "How do you compare the total cost of custom and existing software?",
+    "When should AI be part of a custom workflow?",
+    "How do you avoid dependence on a custom software supplier?"
+  ],
+  "answer_capsule": "The right choice depends on the task, its constraints, and the cost of keeping the solution useful. Existing software may fit after configuration. A small integration may solve the gap. A custom build may be justified where the requirement is important, specific, and difficult to meet otherwise. Keeping the current process can also be reasonable when change offers little benefit.",
+  "takeaways": [
+    "Express the requirement as work a person can complete.",
+    "Test the distinctive requirement and failure cases first.",
+    "Compare the full life of the solution."
+  ],
+  "faqs": [
+    {
+      "question": "When is a custom workflow justified?",
+      "answer": "When an important requirement is specific enough that available options cannot meet it acceptably, and the business can support the build’s full operating life. Demonstrate that need with real tasks and exceptions before committing."
+    },
+    {
+      "question": "Is existing software always cheaper than building?",
+      "answer": "Not necessarily. Configuration, integration, administration, and manual reconciliation also cost time and money. Compare the complete requirement and operating costs rather than only the subscription and initial build price."
+    },
+    {
+      "question": "Does including AI make the custom option more appropriate?",
+      "answer": "No. AI needs a defined role, suitable inputs, review, and a recovery route. Its presence does not demonstrate that a custom build fits the business better than another option."
+    }
+  ],
+  "sources": [
+    "https://www.nist.gov/itl/ai-risk-management-framework"
+  ],
+  "related_ids": [
+    "N09",
+    "N06"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

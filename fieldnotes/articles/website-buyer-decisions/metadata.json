@@ -1,0 +1,59 @@
+{
+  "id": "N03",
+  "h1": "What Should Your Website Help a Buyer Decide?",
+  "seo_title": "Service Business Website: Buyer Decisions and Inquiry Handoffs | NATA",
+  "meta_description": "A service business website should help a buyer understand the offer, judge its relevance, inspect credible evidence, identify the people responsible, and know what happens after an inquiry.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "website-buyer-decisions",
+  "intent": "buyer evaluation and credibility",
+  "intent_evidence": "Case-based authority; acquisition query not established",
+  "primary_question": "What Should Your Website Help a Buyer Decide?",
+  "section_questions": [
+    "What does a buyer need to understand before making an inquiry?",
+    "What makes a service project page credible and useful?",
+    "How should SEO and AEO support a service business website?",
+    "What should happen after someone submits a website inquiry?",
+    "How do you audit a service website without starting another redesign?"
+  ],
+  "answer_capsule": "A service business website should help a buyer understand the offer, judge its relevance, inspect credible evidence, identify the people responsible, and know what happens after an inquiry. Its technical build should make that information accessible to people and search systems. The inquiry then needs a reliable handoff so the commercial experience continues beyond submitting a form.",
+  "takeaways": [
+    "Organize the site around buyer decisions rather than a list of pages to fill.",
+    "Connect narrative, inspectable evidence, and technical delivery.",
+    "Review what happens after the inquiry reaches the business, not only whether the form works."
+  ],
+  "faqs": [
+    {
+      "question": "Is a portfolio enough for a service business website?",
+      "answer": "A portfolio can provide evidence, but a buyer also needs to understand the service, the firm's role, and the next step. Explain the context that makes the work relevant rather than relying on images to answer every question."
+    },
+    {
+      "question": "Does CRM integration prove that website leads are handled well?",
+      "answer": "No. Check the receiving owner, record quality, next action, and failure route. Transferring a submission does not establish that someone continued the conversation."
+    },
+    {
+      "question": "Can an AEO-ready website guarantee AI citations?",
+      "answer": "No. Accessible, relevant, attributable content supports technical readiness. Actual indexing, visibility, and citations must be observed; they should not be presented as guaranteed deliverables."
+    }
+  ],
+  "sources": [
+    "https://developers.google.com/search/docs/appearance/ai-features"
+  ],
+  "related_ids": [
+    "N07",
+    "N14"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

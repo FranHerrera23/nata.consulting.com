@@ -1,0 +1,60 @@
+{
+  "id": "N08",
+  "h1": "Why Does Every Quote Still Need the Owner?",
+  "seo_title": "How to Delegate Quote Approval and Reduce Owner Bottlenecks | NATA",
+  "meta_description": "An owner’s involvement in quoting can serve several purposes: deciding risk, protecting margin, resolving unusual specifications, supplying information, or giving permission.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "owner-bottleneck",
+  "intent": "editorial decision support",
+  "intent_evidence": "Pain reported; exact query unmeasured",
+  "primary_question": "Why Does Every Quote Still Need the Owner?",
+  "section_questions": [
+    "How do you find out why quotes need owner approval?",
+    "What are the main reasons routine quotes get escalated?",
+    "How do you delegate quote approval with clear limits?",
+    "Which quoting decisions should remain with the owner?",
+    "How can you test delegation before removing an approval?",
+    "How do you measure whether quoting delegation worked?"
+  ],
+  "answer_capsule": "An owner’s involvement in quoting can serve several purposes: deciding risk, protecting margin, resolving unusual specifications, supplying information, or giving permission. Those are different jobs. Before removing an approval, identify which job the owner is actually doing and what would make that decision possible elsewhere.",
+  "takeaways": [
+    "Identify the actual job the owner performs.",
+    "Separate missing information, authority, risk, and habit.",
+    "Review decision quality as well as approval volume."
+  ],
+  "faqs": [
+    {
+      "question": "Does reducing owner dependency mean removing every approval?",
+      "answer": "No. Some approvals reflect deliberate commercial judgment. Investigate why each recurring escalation exists and retain those that protect decisions the business still wants the owner to make."
+    },
+    {
+      "question": "Should a delegation threshold copy another company’s policy?",
+      "answer": "No. Set boundaries using the company’s products, exposure, roles, and decision requirements. An arbitrary threshold can create permission without the knowledge or controls needed to use it."
+    },
+    {
+      "question": "What if the team still asks the owner after receiving authority?",
+      "answer": "Inspect an actual case. The person may lack a current record, confidence in a boundary, or a way to resolve an exception. Repeating that they are empowered does not establish which condition is missing."
+    }
+  ],
+  "sources": [
+    "https://asq.org/quality-resources/five-whys"
+  ],
+  "related_ids": [
+    "N01",
+    "N12"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

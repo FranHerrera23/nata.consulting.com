@@ -1,0 +1,60 @@
+{
+  "id": "N09",
+  "h1": "What Should You Check Before Replacing Your CRM?",
+  "seo_title": "CRM Replacement Checklist: Workflow, Data and Total Cost | NATA",
+  "meta_description": "A CRM replacement is justified when a documented requirement cannot be met acceptably by the current setup and the proposed alternative can meet it at a reasonable total cost.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "replacing-crm",
+  "intent": "commercial investigation",
+  "intent_evidence": "Product shopping observed; this piece addresses replacement judgment",
+  "primary_question": "What Should You Check Before Replacing Your CRM?",
+  "section_questions": [
+    "How do you tell whether a CRM problem is really a software problem?",
+    "What should you check in the data before changing CRM?",
+    "What alternatives should you test before replacing a CRM?",
+    "What should a CRM vendor demonstrate with your workflow?",
+    "What costs belong in a CRM replacement decision?",
+    "When is replacing the CRM justified?"
+  ],
+  "answer_capsule": "A CRM replacement is justified when a documented requirement cannot be met acceptably by the current setup and the proposed alternative can meet it at a reasonable total cost. “Nobody uses it” is a symptom to investigate. The cause could be an unsuitable tool, duplicate administration, unreliable records, or a process that the system was never configured to support.",
+  "takeaways": [
+    "Describe a failed business task before blaming the software.",
+    "Compare process, configuration, integration, and replacement.",
+    "Include migration, ownership, and exit in the decision."
+  ],
+  "faqs": [
+    {
+      "question": "Does low CRM adoption prove the platform needs replacing?",
+      "answer": "No. Low use can reflect duplicate administration, unreliable records, unclear expectations, or unsuitable software. Observe the failed task and test the current setup before selecting a new platform."
+    },
+    {
+      "question": "Should historical data all move into the new CRM?",
+      "answer": "Determine what the new workflow needs, which records remain authoritative elsewhere, and what retention requirements apply. Copying every old field can preserve clutter and contradictory definitions without improving the task."
+    },
+    {
+      "question": "What is the first test after a CRM migration?",
+      "answer": "Repeat the original task that justified the change with representative records and exceptions. Confirm that the responsible person can complete it, not only that the import finished."
+    }
+  ],
+  "sources": [
+    "https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem"
+  ],
+  "related_ids": [
+    "N07",
+    "N14"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

@@ -1,0 +1,60 @@
+{
+  "id": "N13",
+  "h1": "How Do You Map a Business Process Before Changing It?",
+  "seo_title": "How to Map a Business Process Before Changing It | NATA",
+  "meta_description": "A useful process map shows how work actually progresses: what starts it, who acts, what information they need, which decisions change the route, and where work waits or returns.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "follow-one-job",
+  "intent": "informational",
+  "intent_evidence": "Process-mapping phrasing reported by Grok",
+  "primary_question": "How Do You Map a Business Process Before Changing It?",
+  "section_questions": [
+    "Which process should you map first?",
+    "What information belongs in a business process map?",
+    "How do you connect a process map to the customer journey?",
+    "How do you identify a bottleneck without assuming its cause?",
+    "How do you test a suspected process problem?",
+    "What should you do after mapping the process?"
+  ],
+  "answer_capsule": "A useful process map shows how work actually progresses: what starts it, who acts, what information they need, which decisions change the route, and where work waits or returns. Begin with a completed case. Use the official procedure as a comparison, not as proof of what happened.",
+  "takeaways": [
+    "Compare the actual route with the intended procedure.",
+    "Track decisions, waits, workarounds, and customer effort.",
+    "Keep causal explanations open until evidence supports them."
+  ],
+  "faqs": [
+    {
+      "question": "Do you need process-mapping software to start?",
+      "answer": "No. A simple event table can reveal information, decisions, waits, and returns. Choose software when it helps people maintain or use the map, rather than treating the tool as the investigation."
+    },
+    {
+      "question": "Can one completed job represent the whole process?",
+      "answer": "One case can show a route that actually occurred and suggest what to investigate. It cannot establish how often that route occurs. Compare additional routine and exceptional cases before generalizing."
+    },
+    {
+      "question": "Should the official procedure be ignored?",
+      "answer": "No. Use it to compare intended roles and steps with actual work. A workaround may reveal an unmet need, so understand its purpose before removing it."
+    }
+  ],
+  "sources": [
+    "https://www.gov.uk/service-manual/design/map-a-users-whole-problem"
+  ],
+  "related_ids": [
+    "N06",
+    "N10"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

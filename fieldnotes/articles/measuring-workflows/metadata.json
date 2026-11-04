@@ -1,0 +1,59 @@
+{
+  "id": "N10",
+  "h1": "How Do You Measure Whether a Workflow Change Helped?",
+  "seo_title": "How to Measure Workflow Improvement: Time, Quality and Capacity | NATA",
+  "meta_description": "Measure a workflow from a defined starting event to a defined outcome.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "measuring-workflows",
+  "intent": "informational",
+  "intent_evidence": "Method article; exact search demand unmeasured",
+  "primary_question": "How Do You Measure Whether a Workflow Change Helped?",
+  "section_questions": [
+    "What should count as one workflow case?",
+    "What is the difference between handling time and elapsed time?",
+    "What should a workflow baseline record?",
+    "Why is average completion time not enough?",
+    "How do you check whether an improvement moved work elsewhere?",
+    "Are hours saved the same as financial savings?",
+    "How do you decide whether to keep a workflow change?"
+  ],
+  "answer_capsule": "Measure a workflow from a defined starting event to a defined outcome. Separate active work, waiting, clarification, and correction. Compare similar cases before and after the change, and record whether quality or effort moved elsewhere. A shorter completion time does not explain by itself what improved.",
+  "takeaways": [
+    "Keep start, finish, and case types stable.",
+    "Separate handling time from elapsed time and waiting.",
+    "Report capacity, cost savings, and revenue effects accurately."
+  ],
+  "faqs": [
+    {
+      "question": "How many cases are enough to prove a workflow improved?",
+      "answer": "There is no universal case count in this guide. State the sample, period, case mix, and limitations. A small trial can inform the next decision without supporting a claim about the entire business."
+    },
+    {
+      "question": "Can a time saving be attributed entirely to a new tool?",
+      "answer": "Only if the evidence supports that attribution. Staffing, complexity, work volume, and other process changes may also affect results. Record those conditions rather than treating every before-and-after difference as the tool’s effect."
+    },
+    {
+      "question": "What should you do if speed improves but errors increase?",
+      "answer": "Compare the change with the success and concern conditions agreed for the trial. Include correction effort and customer consequences. Faster handling alone is not sufficient evidence to keep the intervention."
+    }
+  ],
+  "sources": [],
+  "related_ids": [
+    "N13",
+    "N15"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

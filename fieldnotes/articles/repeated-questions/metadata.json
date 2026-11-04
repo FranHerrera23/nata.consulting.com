@@ -1,0 +1,59 @@
+{
+  "id": "N02",
+  "h1": "Why Do Customers Keep Asking the Same Questions?",
+  "seo_title": "Why Customers Ask Repeated Questions: A Practical Review | NATA",
+  "meta_description": "Customers may repeat a question because the answer is absent, difficult to find, unclear, contradictory, or available too late.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "repeated-questions",
+  "intent": "informational problem-solving",
+  "intent_evidence": "Editorial hypothesis, not measured search demand",
+  "primary_question": "Why Do Customers Keep Asking the Same Questions?",
+  "section_questions": [
+    "Why do customers ask questions that are already answered on the website?",
+    "How do you find the cause of a repeated customer question?",
+    "Where should the answer go: website, brochure, proposal, or conversation?",
+    "Which repeated questions should remain human?",
+    "How do you measure whether the information change helped?"
+  ],
+  "answer_capsule": "Customers may repeat a question because the answer is absent, difficult to find, unclear, contradictory, or available too late. Some questions also require reassurance or project-specific judgment. Review the decision behind a real inquiry and the information available before it arrived. That helps establish whether the business needs better content, a clearer process, or a human conversation before it needs an automated reply.",
+  "takeaways": [
+    "Investigate the decision behind the question, not just the wording in the inbox.",
+    "Check absence, access, clarity, timing, and contradiction separately.",
+    "Preserve conversations that need advice; improve information that customers should be able to use independently."
+  ],
+  "faqs": [
+    {
+      "question": "Should we build a chatbot for recurring customer questions?",
+      "answer": "First establish what produces the questions. A chatbot may help retrieve stable, applicable information. It will not resolve a contradictory policy, an unclear service boundary, or advice that requires professional judgment merely by answering faster."
+    },
+    {
+      "question": "Does fewer support messages mean the website improved?",
+      "answer": "Not by itself. Check whether customers completed the intended task, understood the answer, and could still reach help. Contact volume without that context can hide a worse experience."
+    },
+    {
+      "question": "Should every answer be added to an FAQ page?",
+      "answer": "An FAQ can help, but information should also appear near the decision it affects. A scope boundary needed before an inquiry should not rely solely on someone finding a separate archive of questions."
+    }
+  ],
+  "sources": [
+    "https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem"
+  ],
+  "related_ids": [
+    "N03",
+    "N07"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

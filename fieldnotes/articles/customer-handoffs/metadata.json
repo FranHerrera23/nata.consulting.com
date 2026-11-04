@@ -1,0 +1,60 @@
+{
+  "id": "N07",
+  "h1": "What Customer Information Must Survive a Sales Handoff?",
+  "seo_title": "Sales Handoff Checklist: Customer Context and Ownership | NATA",
+  "meta_description": "A useful sales handoff carries the customer’s current objective, agreed scope, promises, unresolved decisions, and next action to a named owner.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "customer-handoffs",
+  "intent": "informational",
+  "intent_evidence": "Workflow hypothesis informed by own project context",
+  "primary_question": "What Customer Information Must Survive a Sales Handoff?",
+  "section_questions": [
+    "What context should sales pass to the next team?",
+    "What should a sales handoff checklist include?",
+    "What if showroom notes and the order show different selections?",
+    "Does every connected system need a full copy of the customer record?",
+    "How do you test whether a sales handoff is complete?",
+    "Which metrics show whether sales handoffs improved?"
+  ],
+  "answer_capsule": "A useful sales handoff carries the customer’s current objective, agreed scope, promises, unresolved decisions, and next action to a named owner. It also confirms that the receiving person can find and use that information. Moving a contact record between systems does not establish that continuity.",
+  "takeaways": [
+    "Transfer promises and open decisions alongside identity.",
+    "Define which record governs each type of information.",
+    "Ask the receiving team to test whether it can act."
+  ],
+  "faqs": [
+    {
+      "question": "Is a CRM integration enough to fix a handoff?",
+      "answer": "No. The connection may transfer fields while leaving promises, decisions, or ownership unclear. Define the receiving task and the governing records before deciding what the integration must carry."
+    },
+    {
+      "question": "Should the full customer conversation be copied into every tool?",
+      "answer": "Only retain or transfer what the receiving task requires, with access and retention handled in the company’s approved systems. Link to relevant evidence where possible rather than creating several competing copies."
+    },
+    {
+      "question": "Who owns a handoff when sales and operations both participate?",
+      "answer": "Name the owner of the next action and require confirmation that the receiver can continue. Shared participation should not leave both teams assuming the other is responsible."
+    }
+  ],
+  "sources": [
+    "https://www.gov.uk/service-manual/design/map-a-users-whole-problem"
+  ],
+  "related_ids": [
+    "N02",
+    "N09"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

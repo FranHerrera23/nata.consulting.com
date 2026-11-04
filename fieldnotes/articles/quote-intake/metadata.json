@@ -1,0 +1,60 @@
+{
+  "id": "N01",
+  "h1": "What Information Should a Materials Supplier Collect Before Preparing a Quote?",
+  "seo_title": "Quote Intake Checklist for Building Materials Suppliers | NATA",
+  "meta_description": "The first job of quote intake is to establish what kind of answer the customer needs.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "quote-intake",
+  "intent": "informational",
+  "intent_evidence": "Adjacent query evidence; exact targeting remains a hypothesis",
+  "primary_question": "What Information Should a Materials Supplier Collect Before Preparing a Quote?",
+  "section_questions": [
+    "What kind of answer does the customer need from the quote?",
+    "How should you record missing or conflicting quote information?",
+    "Who needs to be identified in a quote request?",
+    "Which project details should a materials supplier check?",
+    "What if a selection is undecided and the drawings disagree?",
+    "How do you stop the same intake gaps from recurring?"
+  ],
+  "answer_capsule": "The first job of quote intake is to establish what kind of answer the customer needs. A preliminary budget, a product recommendation, and a firm quotation require different levels of certainty. Asking every customer for every possible detail can make an early conversation harder without making the eventual quote more reliable.",
+  "takeaways": [
+    "Establish whether the customer needs budget guidance or a firm quote.",
+    "Give uncertainty a status and a decision owner.",
+    "Investigate why information did not reach the point of use."
+  ],
+  "faqs": [
+    {
+      "question": "Do we need every technical detail before giving an early budget?",
+      "answer": "The required certainty depends on the response. Preliminary guidance may be possible on a clearly stated basis, while a firm quotation needs the inputs the supplier considers sufficient. Do not silently present an assumption as a confirmed specification."
+    },
+    {
+      "question": "Should an inquiry form require every field?",
+      "answer": "Require a field when it is needed at that stage and the customer can reasonably answer it. Provide a route for an undecided selection or an early question. A long form can collect more entries without producing a more usable request."
+    },
+    {
+      "question": "Will a better intake form remove the need for sales advice?",
+      "answer": "No. It can organize facts and expose gaps. Helping a customer choose or assessing an unusual specification may still require a conversation with the right person."
+    }
+  ],
+  "sources": [
+    "https://www.bwgsteelframing.com.au/resources/steel-framing-quote-checklist"
+  ],
+  "related_ids": [
+    "N08",
+    "N15"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

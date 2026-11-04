@@ -1,0 +1,59 @@
+{
+  "id": "N06",
+  "h1": "Before You Automate, Find Out Why the Work Exists",
+  "seo_title": "Business Process Automation: What to Check Before You Automate | NATA",
+  "meta_description": "Before automating a business process, establish the task's purpose, what creates it, the information it needs, the decisions involved, and the exceptions that require judgment.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "before-automation",
+  "intent": "informational problem-solving",
+  "intent_evidence": "Readiness queries observed; broad and mixed intent",
+  "primary_question": "Before You Automate, Find Out Why the Work Exists",
+  "section_questions": [
+    "What should you investigate before automating a business process?",
+    "How do you distinguish a root cause from a plausible explanation?",
+    "When should you improve information or authority instead of adding automation?",
+    "What should a useful automation brief include?",
+    "How do you test whether the automation improved the whole experience?"
+  ],
+  "answer_capsule": "Before automating a business process, establish the task's purpose, what creates it, the information it needs, the decisions involved, and the exceptions that require judgment. Follow a real case and compare possible interventions, including clearer information, changed authority, process redesign, integration, or automation. Test a bounded change against customer and employee outcomes before expanding it.",
+  "takeaways": [
+    "Follow the recurring task back to the condition that produces it.",
+    "Keep information, process, authority, and technology options open until the problem is understood.",
+    "Judge the change by what customers and employees can accomplish, not only how quickly a system runs."
+  ],
+  "faqs": [
+    {
+      "question": "Should every repetitive task be automated?",
+      "answer": "Repetition identifies a task worth examining, not an automatic implementation decision. Check whether it should be prevented, clarified, retained for judgment, or automated with an appropriate exception route."
+    },
+    {
+      "question": "Is root-cause analysis a reason to delay implementation indefinitely?",
+      "answer": "No. Define the observed problem, working explanation, trial boundary, and review conditions. Gather enough evidence to make that bounded decision, then learn from the actual work rather than waiting for a complete model of the company."
+    },
+    {
+      "question": "How should you measure the financial benefit?",
+      "answer": "Separate released capacity, lower spending, and additional revenue. Measure the remaining work and what the released capacity enabled. Do not turn every hour removed from a task into payroll savings or sales without evidence of that business effect."
+    }
+  ],
+  "sources": [
+    "https://asq.org/quality-resources/five-whys"
+  ],
+  "related_ids": [
+    "N13",
+    "N14"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

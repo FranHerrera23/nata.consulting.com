@@ -1,0 +1,58 @@
+{
+  "id": "N11",
+  "h1": "What Makes a Proposal Follow-Up Useful?",
+  "seo_title": "Proposal Follow-Up: What to Say and When to Automate | NATA",
+  "meta_description": "A useful follow-up identifies the decision still open, provides information that helps resolve it, and respects the buyer’s current stage.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "useful-follow-up",
+  "intent": "informational",
+  "intent_evidence": "Decision-support hypothesis; exact search demand unmeasured",
+  "primary_question": "What Makes a Proposal Follow-Up Useful?",
+  "section_questions": [
+    "What should you find out before following up on a proposal?",
+    "When does the proposal itself need fixing before a follow-up?",
+    "What should a useful proposal follow-up say?",
+    "How do you follow up when two proposal options are hard to compare?",
+    "Which parts of proposal follow-up can be automated?",
+    "When should you stop active proposal follow-up?"
+  ],
+  "answer_capsule": "A useful follow-up identifies the decision still open, provides information that helps resolve it, and respects the buyer’s current stage. A message schedule can support that work. It cannot establish whether the buyer is waiting for an internal discussion, missing a specification, comparing scope, or simply choosing not to proceed.",
+  "takeaways": [
+    "Distinguish silence from known reasons for delay.",
+    "Fix ambiguity in the proposal and its version history.",
+    "Automate reminders only where state and ownership are clear."
+  ],
+  "faqs": [
+    {
+      "question": "Is there one best number of days between proposal follow-ups?",
+      "answer": "This guide does not establish a universal cadence. Use agreed checkpoints, the buyer’s stage, and the known pending decision. An invented deadline or repeated generic reminder does not become useful because it follows a schedule."
+    },
+    {
+      "question": "Should a paused project stay in an active email sequence?",
+      "answer": "Update the record to reflect the pause and whether future contact is appropriate. A reliable state should prevent an active sequence from contradicting the conversation the team has already had."
+    },
+    {
+      "question": "Is reply rate enough to measure follow-up quality?",
+      "answer": "No. Check whether the exchange clarified scope, enabled a decision, established a new timeline, or recorded a pause. A reply can be a signal without proving commercial progress."
+    }
+  ],
+  "sources": [],
+  "related_ids": [
+    "N04",
+    "N02"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

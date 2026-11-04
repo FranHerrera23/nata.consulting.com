@@ -1,0 +1,58 @@
+{
+  "id": "N15",
+  "h1": "How Much Does Your Quoting Process Actually Cost?",
+  "seo_title": "How to Calculate the Cost of Preparing a Quote | NATA",
+  "meta_description": "The cost of quoting includes the work required to prepare and revise a response, the systems supporting it, and any additional effort created by missing or inconsistent information.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "cost-of-quoting",
+  "intent": "informational",
+  "intent_evidence": "Own analytical method; exact search demand unmeasured",
+  "primary_question": "How Much Does Your Quoting Process Actually Cost?",
+  "section_questions": [
+    "Which quotes should you compare when calculating process cost?",
+    "What time should be included in the cost of a quote?",
+    "How do you calculate the handling cost per quote?",
+    "How do you identify which quoting activity to improve?",
+    "Can faster quoting be counted as additional revenue?",
+    "How do you value time released from preparing quotes?"
+  ],
+  "answer_capsule": "The cost of quoting includes the work required to prepare and revise a response, the systems supporting it, and any additional effort created by missing or inconsistent information. Waiting affects the customer’s experience and may affect the opportunity, but its financial consequence needs evidence. Counting every elapsed hour as paid labor or lost revenue overstates what the records can show.",
+  "takeaways": [
+    "Distinguish active work from elapsed waiting.",
+    "Label planning rates and calculations as assumptions.",
+    "Identify what released capacity made possible."
+  ],
+  "faqs": [
+    {
+      "question": "What hourly rate should you use for quoting cost?",
+      "answer": "Use a rate whose purpose and basis the business can explain. A planning rate, employment cost, and owner opportunity cost answer different questions. State the chosen basis rather than presenting an assumed rate as a market fact."
+    },
+    {
+      "question": "Can lost sales be calculated from quote turnaround time alone?",
+      "answer": "No. Timing may matter, but estimating lost sales requires opportunity evidence and consideration of other factors. Do not treat every delayed quote as revenue that would otherwise have been won."
+    },
+    {
+      "question": "Is time released from quoting a cash saving?",
+      "answer": "Only when spending actually falls. If the same paid hours remain, the immediate effect is capacity. Record how that capacity is used before making a revenue or profit claim."
+    }
+  ],
+  "sources": [],
+  "related_ids": [
+    "N01",
+    "N10"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}

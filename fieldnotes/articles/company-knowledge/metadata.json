@@ -1,0 +1,60 @@
+{
+  "id": "N12",
+  "h1": "How Do You Make Company Knowledge Useful Beyond One Person?",
+  "seo_title": "Company Knowledge Base: Capture, Use and Maintain Expertise | NATA",
+  "meta_description": "Useful company knowledge explains what to do, when the answer applies, which source supports it, and who maintains it.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Founder, NATA",
+    "status": "proposed byline; editorial approval not claimed",
+    "photo": null,
+    "profile_url": null
+  },
+  "prepared_date": "2026-11-04",
+  "revised_date": "2026-11-04",
+  "date_published": null,
+  "canonical_url": null,
+  "proposed_slug": "company-knowledge",
+  "intent": "informational",
+  "intent_evidence": "Method article; exact search demand unmeasured",
+  "primary_question": "How Do You Make Company Knowledge Useful Beyond One Person?",
+  "section_questions": [
+    "Where should you start when knowledge depends on one employee?",
+    "What should a useful company knowledge entry contain?",
+    "Where should employees find operational knowledge?",
+    "How do you preserve exceptions without making guidance confusing?",
+    "How do you test whether company knowledge is actually usable?",
+    "How do you keep a knowledge base current?"
+  ],
+  "answer_capsule": "Useful company knowledge explains what to do, when the answer applies, which source supports it, and who maintains it. Recording a long conversation with an experienced colleague can preserve information. It does not automatically produce something another employee can find, understand, and trust during a task.",
+  "takeaways": [
+    "Begin with a recurring task rather than a knowledge-base project.",
+    "Separate retrieval from professional judgment.",
+    "Test finding an answer and applying it correctly."
+  ],
+  "faqs": [
+    {
+      "question": "Should you record every conversation with an expert?",
+      "answer": "Start with recurring tasks and decisions where another person needs usable guidance. A complete archive may preserve information while making it harder to find the relevant answer. The record should serve the task."
+    },
+    {
+      "question": "Can an AI search tool replace the knowledge owner?",
+      "answer": "Retrieval does not establish whether guidance is current or applicable. Someone still needs responsibility for the source, its limits, updates, and the cases that require specialist judgment."
+    },
+    {
+      "question": "What should happen to outdated knowledge entries?",
+      "answer": "Clearly distinguish them from current guidance and link to the replacement where appropriate. Retain history according to company rules so past decisions can still be understood without confusing today’s user."
+    }
+  ],
+  "sources": [
+    "https://www.nngroup.com/articles/ten-usability-heuristics/"
+  ],
+  "related_ids": [
+    "N08",
+    "N13"
+  ],
+  "status": "revised_for_review",
+  "edition": "2.0 TENEX",
+  "live_implementation": false
+}
