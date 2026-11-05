@@ -1,7 +1,7 @@
 (() => {
   const media = matchMedia('(prefers-reduced-motion: reduce), (pointer: coarse), (max-width: 767px)');
   let lenis, frame, items = [];
-  const selectors = '.hero h1,.hero-lead,.hero-action,.hero-reassurance,.introduction>p,.work-intro,.case-header,.case-facts,.value,.case figure,.approach h2,.section-dek,.services>div,.belief>p,.about>h1,.about>h2,.about-intro,.people,.conversation>h2,.conversation>p';
+  const selectors = '.sprint>.nata-label,.sprint>h2,.sprint-row>span,.sprint-row>div,.sprint-row>p,.hero h1,.hero-lead,.hero-action,.hero-reassurance,.introduction>p,.work-intro,.case-header,.case-facts,.value,.case figure,.approach h2,.section-dek,.services>div,.belief>p,.about>h1,.about>h2,.about-intro,.people,.conversation>h2,.conversation>p';
   function reset() {
     cancelAnimationFrame(frame); lenis?.destroy(); lenis = null;
     items.forEach(({el}) => {el.removeAttribute('data-reveal'); el.style.removeProperty('--reveal-opacity'); el.style.removeProperty('--reveal-y');});
