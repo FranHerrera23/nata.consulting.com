@@ -20,6 +20,24 @@
           "value": "noindex, nofollow"
         }
       ]
+    },
+    {
+      "source": "/preview/allied",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
+      "source": "/preview/allied/:path*",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,40 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Inspection request demo · Allied Roofing of Texas</title><link rel="stylesheet" href="/preview/allied/style.css"></head>
+<body><div class="demo"><div class="wrap"><span><strong>Website demo</strong> prepared by NATA for Allied Roofing of Texas</span></div></div>
+<header class="wrap nav"><div class="brand"><span class="monogram" aria-hidden="true">A</span><span>Allied Roofing<small>OF TEXAS, INC.</small></span></div></header>
+<main><section class="hero intake-hero"><div class="wrap"><p class="eyebrow"><i></i> From first request to inspection</p><h1>Request a roof inspection.</h1><p class="lead">Use the sample details to see what the office would receive before calling back.</p></div></section>
+<div class="wrap intake-grid"><section class="panel"><p class="eyebrow">Customer view</p><h2>Tell us about the roof.</h2><form id="request">
+<label>Property type<select name="property"><option>Commercial property</option><option>Home</option></select></label>
+<label>What happened?<select name="issue"><option>Active leak</option><option>Possible hail or wind damage</option><option>Planned roof replacement</option></select></label>
+<label>Property ZIP code<input name="zip" value="75226" inputmode="numeric" pattern="[0-9]{5}" required></label>
+<label>Best callback window<select name="window"><option>This morning</option><option>This afternoon</option><option>Next business day</option></select></label>
+<button type="submit">Preview office handoff</button>
+</form><p class="quiet">Demo only. This form does not collect or send requests.</p></section>
+<section class="panel"><p class="eyebrow">Office view</p><h2>Roofing request queue</h2><div id="output" aria-live="polite"><p class="quiet">Preview a request to see the proposed handoff.</p></div></section></div></main>
+<footer class="wrap foot"><span>Illustrative routing. Allied would set the rules with its office team.</span><a href="/preview/allied">Back to demo home ↗</a></footer><script>
+const form=document.querySelector('#request');
+const output=document.querySelector('#output');
+form.addEventListener('submit',event=>{
+ event.preventDefault();
+ const d=new FormData(form), property=d.get('property'), issue=d.get('issue');
+ const urgent=issue==='Active leak';
+ const team=property==='Home'?'Residential intake':'Commercial intake';
+ const fields=[
+ ['Property and issue',property+' · '+issue],
+ ['ZIP and callback',d.get('zip')+' · '+d.get('window')],
+ ['Proposed owner',team],
+ ['Next action',urgent?'Office reviews urgency and calls to confirm site details.':'Office calls to confirm scope and find an inspection slot.'],
+ ['Status','Awaiting office review']
+ ];
+ const card=document.createElement('div');card.className='ticket';
+ const title=document.createElement('h3');title.textContent=urgent?'Priority review · active leak':'Standard inspection request';card.append(title);
+ const list=document.createElement('dl');
+ for(const [label,value] of fields){
+  const term=document.createElement('dt'), detail=document.createElement('dd');
+  term.textContent=label;detail.textContent=value;list.append(term,detail);
+ }
+ card.append(list);
+ const next=document.createElement('button');next.type='button';next.textContent='Simulate callback logged';
+ next.addEventListener('click',()=>{list.lastElementChild.textContent='Callback logged · inspection scheduling pending';next.remove();});
+ card.append(next);output.replaceChildren(card);
+});
+</script></body></html>
