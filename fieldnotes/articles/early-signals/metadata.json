@@ -1,0 +1,49 @@
+{
+  "id": "N18",
+  "h1": "What Your Dashboard Learns Too Late",
+  "seo_title": "How to Find Leading Indicators of Project Delays | NATA",
+  "meta_description": "Identify the first sign of a project delay that gives someone time to act, and design a weekly exception review around it.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
+  },
+  "revised_date": "2026-11-14",
+  "date_published": "2026-11-05",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/early-signals",
+  "slug": "early-signals",
+  "section_questions": [
+    "When is a warning early enough to matter?",
+    "Which signals would have helped the restaurant project?",
+    "What should the weekly exception review record?"
+  ],
+  "answer_capsule": "A leading indicator is a change you can observe before the outcome and early enough to act. Start with the decision you want to preserve. Identify the event that should trigger it, the time left to act, and the person who can respond. Test whether the warning changes decisions on real jobs.",
+  "takeaways": [
+    "Name the decision it keeps open.",
+    "Show when someone needs to act and who can do it.",
+    "Review the actual response and what changed for the job."
+  ],
+  "faqs": [
+    {
+      "question": "Is a leading indicator the same as a forecast?",
+      "answer": "A forecast estimates what may happen. A leading indicator is a specific condition you can observe ahead of the outcome and use to decide what to do next."
+    },
+    {
+      "question": "How early should a warning appear?",
+      "answer": "Allow enough time for the employee to verify the signal and act. Work backward from the real decision deadline, including the time other people need to respond."
+    },
+    {
+      "question": "What if alerts keep getting ignored?",
+      "answer": "Check how often they lead to an action, whether they reach the right person, and whether the message shows a deadline. Narrow or remove alerts that rarely help someone make a decision."
+    }
+  ],
+  "sources": [
+    "https://www.ups.com/us/en/support/tracking-support/change-delivery-options/delivery-intercept"
+  ],
+  "related_ids": [],
+  "article_pdf": "/fieldnotes/downloads/early-signals.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/early-signals-worksheet.pdf",
+  "share_image": "/fieldnotes/share/early-signals.png"
+}

@@ -1,60 +1,53 @@
 {
   "id": "N08",
-  "h1": "Why Does Every Quote Still Need the Owner?",
-  "seo_title": "How to Delegate Quote Approval and Reduce Owner Bottlenecks | NATA",
-  "meta_description": "An owner’s involvement in quoting can serve several purposes: deciding risk, protecting margin, resolving unusual specifications, supplying information, or giving permission.",
+  "h1": "Why Is This Quote Back on Your Desk?",
+  "seo_title": "Why Quotes Need the Owner and How to Delegate Approvals | NATA",
+  "meta_description": "Find out what the owner contributes to a quote, then decide what to document, what to delegate, and what risk should stay with leadership.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "owner-bottleneck",
-  "intent": "editorial decision support",
-  "intent_evidence": "Pain reported; exact query unmeasured",
-  "primary_question": "Why Does Every Quote Still Need the Owner?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/owner-bottleneck",
+  "slug": "owner-bottleneck",
   "section_questions": [
-    "How do you find out why quotes need owner approval?",
-    "What are the main reasons routine quotes get escalated?",
-    "How do you delegate quote approval with clear limits?",
-    "Which quoting decisions should remain with the owner?",
-    "How can you test delegation before removing an approval?",
-    "How do you measure whether quoting delegation worked?"
+    "What does the owner actually do when approving a quote?",
+    "What should be delegated, and what belongs with leadership?",
+    "How do you test delegation without losing control?"
   ],
-  "answer_capsule": "An owner’s involvement in quoting can serve several purposes: deciding risk, protecting margin, resolving unusual specifications, supplying information, or giving permission. Those are different jobs. Before removing an approval, identify which job the owner is actually doing and what would make that decision possible elsewhere.",
+  "answer_capsule": "Quotes keep coming back to the owner when important information, authority, or unusual risk is concentrated there. Review what the owner actually changes in each quote. Give the team access to repeatable information and authority inside defined limits. Keep commitments with material exposure at the level that can own them.",
   "takeaways": [
-    "Identify the actual job the owner performs.",
-    "Separate missing information, authority, risk, and habit.",
-    "Review decision quality as well as approval volume."
+    "What information or judgment does the team need from me?",
+    "Who should have that information or authority the next time this happens?",
+    "What condition would still require someone at my level to decide?"
   ],
   "faqs": [
     {
-      "question": "Does reducing owner dependency mean removing every approval?",
-      "answer": "No. Some approvals reflect deliberate commercial judgment. Investigate why each recurring escalation exists and retain those that protect decisions the business still wants the owner to make."
+      "question": "Is a dollar threshold enough?",
+      "answer": "Use it with the terms that create exposure. A relatively small quote can need review if it adds unusual responsibility or requires expensive work before payment. A larger standard quote may fit established limits."
     },
     {
-      "question": "Should a delegation threshold copy another company’s policy?",
-      "answer": "No. Set boundaries using the company’s products, exposure, roles, and decision requirements. An arbitrary threshold can create permission without the knowledge or controls needed to use it."
+      "question": "What if employees still ask for permission after authority has been delegated?",
+      "answer": "Review the last few requests and ask what made them uncertain. They may lack evidence or expect a different answer when a senior person sees the decision. Work through comparable cases until the boundary is understood."
     },
     {
-      "question": "What if the team still asks the owner after receiving authority?",
-      "answer": "Inspect an actual case. The person may lack a current record, confidence in a boundary, or a way to resolve an exception. Repeating that they are empowered does not establish which condition is missing."
+      "question": "Can approvals be automated?",
+      "answer": "A system can route requests using a rule the company can state and check. Preserve the facts behind each decision and give exceptions to an authorized person. Test how the workflow behaves when a required cost or scope field is missing."
     }
   ],
   "sources": [
-    "https://asq.org/quality-resources/five-whys"
+    "https://digprjsurvey.amazon.com/csad/help/node/G202209050",
+    "https://www.capitalone.com/digital/identity-protection/"
   ],
   "related_ids": [
     "N01",
     "N12"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/owner-bottleneck.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/owner-bottleneck-worksheet.pdf",
+  "share_image": "/fieldnotes/share/owner-bottleneck.png"
 }

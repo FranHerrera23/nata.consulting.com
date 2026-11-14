@@ -1,60 +1,53 @@
 {
   "id": "N13",
-  "h1": "How Do You Map a Business Process Before Changing It?",
-  "seo_title": "How to Map a Business Process Before Changing It | NATA",
-  "meta_description": "A useful process map shows how work actually progresses: what starts it, who acts, what information they need, which decisions change the route, and where work waits or returns.",
+  "h1": "The Deposit Came In. Why Is the Job Still Waiting?",
+  "seo_title": "How to Map a Business Process Using One Real Job | NATA",
+  "meta_description": "Follow a real job through sales and delivery, identify where it waited or came back, and test what would move it sooner.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "follow-one-job",
-  "intent": "informational",
-  "intent_evidence": "Process-mapping phrasing reported by Grok",
-  "primary_question": "How Do You Map a Business Process Before Changing It?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/follow-one-job",
+  "slug": "follow-one-job",
   "section_questions": [
-    "Which process should you map first?",
-    "What information belongs in a business process map?",
-    "How do you connect a process map to the customer journey?",
-    "How do you identify a bottleneck without assuming its cause?",
-    "How do you test a suspected process problem?",
-    "What should you do after mapping the process?"
+    "How do you find the delay that matters?",
+    "What should a process map record?",
+    "How do you test what the map suggests?"
   ],
-  "answer_capsule": "A useful process map shows how work actually progresses: what starts it, who acts, what information they need, which decisions change the route, and where work waits or returns. Begin with a completed case. Use the official procedure as a comparison, not as proof of what happened.",
+  "answer_capsule": "Map a real business process by following one job from the event that started it to the point the customer or next team could act. Record what people knew, what they did, when the work waited, and where it came back. Compare the map with other jobs before committing to a change.",
   "takeaways": [
-    "Compare the actual route with the intended procedure.",
-    "Track decisions, waits, workarounds, and customer effort.",
-    "Keep causal explanations open until evidence supports them."
+    "Bring one real job and open its dated records.",
+    "Ask what the customer was waiting for at each handoff.",
+    "Try a change that would shorten the wait if your explanation is right."
   ],
   "faqs": [
     {
-      "question": "Do you need process-mapping software to start?",
-      "answer": "No. A simple event table can reveal information, decisions, waits, and returns. Choose software when it helps people maintain or use the map, rather than treating the tool as the investigation."
+      "question": "Does a process map need special software?",
+      "answer": "A short timeline or table is enough to investigate one job. Add a visual map if it helps teams understand parallel steps, decisions, or loops."
     },
     {
-      "question": "Can one completed job represent the whole process?",
-      "answer": "One case can show a route that actually occurred and suggest what to investigate. It cannot establish how often that route occurs. Compare additional routine and exceptional cases before generalizing."
+      "question": "Can one job establish the cause of a recurring problem?",
+      "answer": "It can show where to look. Compare other jobs, including ones that went smoothly, to see which conditions repeat."
     },
     {
-      "question": "Should the official procedure be ignored?",
-      "answer": "No. Use it to compare intended roles and steps with actual work. A workaround may reveal an unmet need, so understand its purpose before removing it."
+      "question": "Should the company skip a control that causes a wait?",
+      "answer": "First find out what risk the control protects against. Check whether it can happen earlier, receive better information, or be applied only where it is needed."
     }
   ],
   "sources": [
+    "https://corporate.target.com/news-features/article/2018/08/drive-up-california-colorado",
     "https://www.gov.uk/service-manual/design/map-a-users-whole-problem"
   ],
   "related_ids": [
     "N06",
     "N10"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/follow-one-job.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/follow-one-job-worksheet.pdf",
+  "share_image": "/fieldnotes/share/follow-one-job.png"
 }

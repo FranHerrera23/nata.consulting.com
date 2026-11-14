@@ -1,59 +1,56 @@
 {
   "id": "N02",
-  "h1": "Why Do Customers Keep Asking the Same Questions?",
-  "seo_title": "Why Customers Ask Repeated Questions: A Practical Review | NATA",
-  "meta_description": "Customers may repeat a question because the answer is absent, difficult to find, unclear, contradictory, or available too late.",
+  "h1": "Your Team Answered That Question Yesterday",
+  "seo_title": "Why Customers Ask the Same Questions and How to Fix the Cause | NATA",
+  "meta_description": "Follow a repeated customer question through sales and operations. See when to clarify the offer, send a status update, or keep the decision with a person.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "repeated-questions",
-  "intent": "informational problem-solving",
-  "intent_evidence": "Editorial hypothesis, not measured search demand",
-  "primary_question": "Why Do Customers Keep Asking the Same Questions?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/repeated-questions",
+  "slug": "repeated-questions",
   "section_questions": [
-    "Why do customers ask questions that are already answered on the website?",
-    "How do you find the cause of a repeated customer question?",
-    "Where should the answer go: website, brochure, proposal, or conversation?",
-    "Which repeated questions should remain human?",
-    "How do you measure whether the information change helped?"
+    "Why do customers ask a question that’s already answered?",
+    "When is a repeated question really a request for a status update?",
+    "Which repeated questions should stay with a person?",
+    "How do you find the cause inside your own business?"
   ],
-  "answer_capsule": "Customers may repeat a question because the answer is absent, difficult to find, unclear, contradictory, or available too late. Some questions also require reassurance or project-specific judgment. Review the decision behind a real inquiry and the information available before it arrived. That helps establish whether the business needs better content, a clearer process, or a human conversation before it needs an automated reply.",
+  "answer_capsule": "Customers keep asking the same question when the answer is missing, hard to find, out of date, or unclear at the moment they need it. Sometimes the answer depends on a decision someone still has to make. Trace one inquiry back to what the customer saw and what they needed to do next. That tells you whether to clarify the offer, update a job’s status, or put someone in charge of the decision.",
   "takeaways": [
-    "Investigate the decision behind the question, not just the wording in the inbox.",
-    "Check absence, access, clarity, timing, and contradiction separately.",
-    "Preserve conversations that need advice; improve information that customers should be able to use independently."
+    "Find the exact place where the customer needed the answer, using the version they actually saw.",
+    "Decide who owns the answer and when it can be given. A scope boundary, a live update, and professional judgment each need different support.",
+    "Check whether comparable customers can take the next step and still reach someone when their situation warrants it."
   ],
   "faqs": [
     {
-      "question": "Should we build a chatbot for recurring customer questions?",
-      "answer": "First establish what produces the questions. A chatbot may help retrieve stable, applicable information. It will not resolve a contradictory policy, an unclear service boundary, or advice that requires professional judgment merely by answering faster."
+      "question": "When is an FAQ page the right place for an answer?",
+      "answer": "Use an FAQ when the answer is useful across several services or situations and customers have a clear route to it. Put buying conditions beside the relevant service or price as well. A contractor comparing a quote should see the scope where they’re deciding whether to sign."
     },
     {
-      "question": "Does fewer support messages mean the website improved?",
-      "answer": "Not by itself. Check whether customers completed the intended task, understood the answer, and could still reach help. Contact volume without that context can hide a worse experience."
+      "question": "When should we automate replies to common questions?",
+      "answer": "Automate retrieval when the answer is stable or the system can read the current, authoritative record. Define who maintains that information and when to send the customer to a person. Try it first on a narrow set of questions and check the replies against real cases, including exceptions."
     },
     {
-      "question": "Should every answer be added to an FAQ page?",
-      "answer": "An FAQ can help, but information should also appear near the decision it affects. A scope boundary needed before an inquiry should not rely solely on someone finding a separate archive of questions."
+      "question": "Who should maintain the answer when several departments use it?",
+      "answer": "Give ownership to the team that can change or confirm the underlying promise. Sales may own the standard scope, while dispatch owns the current delivery status. Name who updates the page, quote template and team instructions when the answer changes."
     }
   ],
   "sources": [
+    "https://www.ikea.com/us/en/customer-service/knowledge/articles/2bb04abd-866b-4bad-93cf-9943e95ec815.html",
+    "https://www.ikea.com/us/en/customer-service/knowledge/articles/76fbb40e-dca1-4fff-ba58-d7ccfe2ad40a.html",
+    "https://www.ups.com/us/en/support/tracking-support/where-is-my-package/understanding-tracking-status",
     "https://www.gov.uk/service-manual/service-standard/point-2-solve-a-whole-problem"
   ],
   "related_ids": [
     "N03",
     "N07"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/repeated-questions.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/repeated-questions-worksheet.pdf",
+  "share_image": "/fieldnotes/share/repeated-questions.png"
 }

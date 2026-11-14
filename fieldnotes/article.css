@@ -1,0 +1,154 @@
+@font-face {
+  font-family: Fieldnotes Garamond;
+  src: url(/fieldnotes/assets/EBGaramond-Regular.ttf);
+  font-display: swap;
+}
+
+body.fieldnote-page {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+.fieldnote-page :is(.article-nav, main, footer) {
+  box-sizing: border-box;
+  max-width: 780px;
+  margin-inline: auto;
+  padding-inline: 35px;
+}
+
+.fieldnote-page .article-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 78px;
+  border-bottom: 1px solid var(--rule);
+  font-size: .83rem;
+}
+
+.fieldnote-page .article-nav strong { font-size: 1.8rem; }
+.fieldnote-page .article-nav a:first-child { text-decoration: none; }
+.fieldnote-page a { color: inherit; text-underline-offset: .2em; }
+.fieldnote-page :focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+.fieldnote-page main { padding-block: 42px; }
+.fieldnote-page h1 {
+  font-size: clamp(2.25rem, 5.5vw, 3.7rem);
+  line-height: 1.04;
+  font-weight: 500;
+  letter-spacing: -.04em;
+  margin: .25em 0 .4em;
+}
+.fieldnote-page h2 {
+  font-size: clamp(1.33rem, 2.9vw, 1.7rem);
+  font-weight: 550;
+  line-height: 1.23;
+  margin: 2em 0 .65em;
+}
+.fieldnote-page h3 { font-size: 1.12rem; line-height: 1.3; margin: 1.5em 0 .55em; }
+.fieldnote-page .eyebrow, .fieldnote-page .meta {
+  color: var(--secondary);
+  font-size: .78rem;
+}
+.fieldnote-page .eyebrow { letter-spacing: .09em; }
+.fieldnote-page .deck {
+  font: 1.6rem/1.3 Fieldnotes Garamond, Georgia, serif;
+  margin: 0 0 1em;
+}
+.fieldnote-page .author { display: flex; gap: 12px; align-items: center; }
+.fieldnote-page .author img { border-radius: 50%; object-fit: cover; }
+.fieldnote-page .author p { margin: 0; line-height: 1.55; }
+.fieldnote-page .byline { font-size: .83rem; }
+.fieldnote-page .downloads {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  border-block: 1px solid var(--rule);
+  margin: 28px 0 33px;
+  padding-block: 11px;
+  font-size: .83rem;
+}
+.fieldnote-page .downloads a { padding-block: 7px; }
+.fieldnote-page article { font: 1.375rem/1.54 Fieldnotes Garamond, Georgia, serif; }
+.fieldnote-page article > p { margin: 0 0 1em; }
+.fieldnote-page article > ul { padding-inline-start: 1.2em; margin: 0 0 1.3em; }
+.fieldnote-page article > ul li { margin-bottom: .35em; }
+.fieldnote-page blockquote {
+  margin: 1.3em 0;
+  padding: .1em 0 .1em .9em;
+  border-inline-start: 2px solid var(--accent);
+}
+.fieldnote-page blockquote p { margin: .55em 0; }
+.fieldnote-page .table-wrap { overflow: auto; margin-block: 1.2em; }
+.fieldnote-page table {
+  border-collapse: collapse;
+  width: 100%;
+  font: .82rem/1.45 NataArchivo, Arial, sans-serif;
+}
+.fieldnote-page th, .fieldnote-page td {
+  padding: .65em .55em;
+  text-align: start;
+  vertical-align: top;
+  border-bottom: 1px solid var(--rule);
+  overflow-wrap: anywhere;
+}
+.fieldnote-page th { background: #edf0e6; }
+.fieldnote-page .related, .fieldnote-page footer {
+  border-top: 1px solid var(--rule);
+  padding-block: 18px;
+  font-size: .83rem;
+  line-height: 1.8;
+}
+
+@media (max-width: 600px) {
+  .fieldnote-page :is(.article-nav, main, footer) { padding-inline: 21px; }
+  .fieldnote-page main { padding-block: 28px 40px; }
+  .fieldnote-page article { font-size: 1.23rem; }
+  .fieldnote-page .deck { font-size: 1.42rem; }
+  .fieldnote-page table { font-size: .75rem; }
+}
+
+@media print {
+  body.fieldnote-page { background: #fff; }
+  .fieldnote-page main { padding: 0; max-width: none; }
+  .fieldnote-page h1 { font-size: 30pt; margin-top: 10pt; }
+  .fieldnote-page h2 { font-size: 17pt; margin-top: 18pt; }
+  .fieldnote-page h3 { font-size: 12pt; margin-top: 14pt; }
+  .fieldnote-page :is(h1,h2,h3) { break-after: avoid; }
+  .fieldnote-page p { orphans: 3; widows: 3; }
+  .fieldnote-page .deck { font-size: 15pt; }
+  .fieldnote-page .author { margin-bottom: 20pt; }
+  .fieldnote-page .author img { width: 32px; height: 32px; }
+  .fieldnote-page article { font-size: 12.4pt; line-height: 1.36; }
+  .fieldnote-page .table-wrap { overflow: visible; }
+  .fieldnote-page table { font-size: 9pt; }
+  .fieldnote-page tr { break-inside: avoid; }
+  .fieldnote-page a { text-decoration-thickness: .55px; }
+  .fieldnote-page .sheet-related, .fieldnote-page .sheet-intro { font-size: 11pt; line-height: 1.45; }
+  .fieldnote-page .worksheet { padding-inline-start: 1.5em; margin-block: 22pt 0; }
+  .fieldnote-page .worksheet li { padding-inline-start: .35em; margin-bottom: 16pt; break-inside: avoid; font-size: 11pt; }
+  .fieldnote-page .writing-lines {
+    height: 38pt;
+    margin-top: 4pt;
+    background: linear-gradient(to bottom, transparent 49%, #d5d8ce 49%, #d5d8ce 51%, transparent 51%);
+    border-bottom: 1px solid var(--rule);
+  }
+}
+
+@media print {
+  .print-article article { font-size: 12pt; line-height: 1.33; }
+  .print-article article > p { margin-bottom: .85em; }
+}
+
+@media print {
+  .print-article article > p:last-child {
+    font-size: 10pt;
+    line-height: 1.35;
+    margin-bottom: 0;
+  }
+  .print-article .table-wrap { margin-block: .9em; }
+  .print-article th, .print-article td { padding-block: .5em; }
+}
+
+@media print {
+  .print-close { break-inside: avoid; }
+  .print-close p:last-child { font-size: 10pt; line-height: 1.35; margin-bottom: 0; }
+}

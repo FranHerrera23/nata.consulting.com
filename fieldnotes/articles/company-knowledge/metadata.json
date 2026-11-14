@@ -1,60 +1,53 @@
 {
   "id": "N12",
-  "h1": "How Do You Make Company Knowledge Useful Beyond One Person?",
-  "seo_title": "Company Knowledge Base: Capture, Use and Maintain Expertise | NATA",
-  "meta_description": "Useful company knowledge explains what to do, when the answer applies, which source supports it, and who maintains it.",
+  "h1": "Everybody Knows Who to Ask. Only She Knows the Answer.",
+  "seo_title": "How to Share Company Knowledge Beyond One Employee | NATA",
+  "meta_description": "Capture how experts recognize exceptions, show staff where the answer applies, and test whether someone else can use it.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "company-knowledge",
-  "intent": "informational",
-  "intent_evidence": "Method article; exact search demand unmeasured",
-  "primary_question": "How Do You Make Company Knowledge Useful Beyond One Person?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/company-knowledge",
+  "slug": "company-knowledge",
   "section_questions": [
-    "Where should you start when knowledge depends on one employee?",
-    "What should a useful company knowledge entry contain?",
-    "Where should employees find operational knowledge?",
-    "How do you preserve exceptions without making guidance confusing?",
-    "How do you test whether company knowledge is actually usable?",
-    "How do you keep a knowledge base current?"
+    "What knowledge is worth writing down first?",
+    "What should a useful knowledge entry contain?",
+    "How do you know someone else can use the guidance?"
   ],
-  "answer_capsule": "Useful company knowledge explains what to do, when the answer applies, which source supports it, and who maintains it. Recording a long conversation with an experienced colleague can preserve information. It does not automatically produce something another employee can find, understand, and trust during a task.",
+  "answer_capsule": "To make company knowledge usable beyond one person, start with a decision people regularly bring to that expert. Capture the facts they check, why those facts matter, when the guidance applies, and when someone must escalate. Put it where the next employee works and test it on real examples.",
   "takeaways": [
-    "Begin with a recurring task rather than a knowledge-base project.",
-    "Separate retrieval from professional judgment.",
-    "Test finding an answer and applying it correctly."
+    "It says what someone can decide and which facts they need.",
+    "It is available at the point where they will decide.",
+    "It shows where the standard answer ends and who can take over."
   ],
   "faqs": [
     {
-      "question": "Should you record every conversation with an expert?",
-      "answer": "Start with recurring tasks and decisions where another person needs usable guidance. A complete archive may preserve information while making it harder to find the relevant answer. The record should serve the task."
+      "question": "Should every expert conversation be recorded?",
+      "answer": "Capture recurring decisions and meaningful exceptions first. Check permission and keep only information the next employee needs. A short, maintained entry will often be easier to use than a full recording."
     },
     {
-      "question": "Can an AI search tool replace the knowledge owner?",
-      "answer": "Retrieval does not establish whether guidance is current or applicable. Someone still needs responsibility for the source, its limits, updates, and the cases that require specialist judgment."
+      "question": "Can a search assistant replace the knowledge owner?",
+      "answer": "It can help find an approved answer. Someone still needs to maintain the source, define where it applies, and handle exceptions that require a decision."
     },
     {
-      "question": "What should happen to outdated knowledge entries?",
-      "answer": "Clearly distinguish them from current guidance and link to the replacement where appropriate. Retain history according to company rules so past decisions can still be understood without confusing today’s user."
+      "question": "What should happen to outdated guidance?",
+      "answer": "Remove it from the active path and preserve history where the business needs it. Point readers to the current version and show who can confirm uncertain cases."
     }
   ],
   "sources": [
-    "https://www.nngroup.com/articles/ten-usability-heuristics/"
+    "https://www.ikea.com/us/en/customer-service/knowledge/articles/1656c41a-1a58-4e59-a77a-bae69f28f1bb.html",
+    "https://www.ikea.com/us/en/customer-service/knowledge/articles/93d34e4a-3b1c-4989-812e-acdcfaf56ee8.html"
   ],
   "related_ids": [
     "N08",
     "N13"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/company-knowledge.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/company-knowledge-worksheet.pdf",
+  "share_image": "/fieldnotes/share/company-knowledge.png"
 }

@@ -1,0 +1,50 @@
+{
+  "id": "N19",
+  "h1": "The Judgment You Need to Keep",
+  "seo_title": "What Decisions Should Stay Human When Using AI? | NATA",
+  "meta_description": "Separate preparing a decision from making a client commitment, with an example, research, and a practical test for a service firm.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
+  },
+  "revised_date": "2026-11-14",
+  "date_published": "2026-11-05",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/judgment",
+  "slug": "judgment",
+  "section_questions": [
+    "Where does preparation become a commitment?",
+    "What can a tool do independently?",
+    "How do you test whether assistance preserves judgment?"
+  ],
+  "answer_capsule": "Keep decisions with an authorized person when they depend on incomplete facts, professional judgment, exceptions, or consequential commitments to a customer. A tool can collect evidence, show conflicts and draft options. Decide which steps it may carry out, what must be reviewed, and how the team can recover if the proposed action is wrong.",
+  "takeaways": [
+    "Identify the exact action that commits the company or changes the customer’s position.",
+    "Keep the evidence and uncertainty visible to the person who can authorize it.",
+    "Measure time, exception handling and the quality of the decision together."
+  ],
+  "faqs": [
+    {
+      "question": "Can routine messages be sent automatically?",
+      "answer": "Yes, when the event and wording are well defined and the system can verify the facts. Decide how to handle missing inputs or a customer who has already received a different answer."
+    },
+    {
+      "question": "What should we measure besides time saved?",
+      "answer": "Track missed exceptions, corrections, customer outcomes and the time it takes people to review the recommendation. Include problems the receiving team discovers later."
+    },
+    {
+      "question": "Who owns a bad automated decision?",
+      "answer": "Assign an owner before deployment. That person should be able to investigate the decision, correct the customer’s record, and pause or change the rule that produced it."
+    }
+  ],
+  "sources": [
+    "https://doi.org/10.1093/QJE/QJAE044",
+    "https://support.google.com/maps/answer/144339?hl=en"
+  ],
+  "related_ids": [],
+  "article_pdf": "/fieldnotes/downloads/judgment.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/judgment-worksheet.pdf",
+  "share_image": "/fieldnotes/share/judgment.png"
+}

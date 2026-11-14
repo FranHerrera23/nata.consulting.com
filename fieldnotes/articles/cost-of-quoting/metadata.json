@@ -1,58 +1,53 @@
 {
   "id": "N15",
-  "h1": "How Much Does Your Quoting Process Actually Cost?",
-  "seo_title": "How to Calculate the Cost of Preparing a Quote | NATA",
-  "meta_description": "The cost of quoting includes the work required to prepare and revise a response, the systems supporting it, and any additional effort created by missing or inconsistent information.",
+  "h1": "What Did It Cost You to Put That Number on the Page?",
+  "seo_title": "How to Calculate the Cost of Preparing Quotes | NATA",
+  "meta_description": "Calculate quoting cost by type, identify where effort is consumed, and distinguish time released from cash savings and revenue.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "cost-of-quoting",
-  "intent": "informational",
-  "intent_evidence": "Own analytical method; exact search demand unmeasured",
-  "primary_question": "How Much Does Your Quoting Process Actually Cost?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/cost-of-quoting",
+  "slug": "cost-of-quoting",
   "section_questions": [
-    "Which quotes should you compare when calculating process cost?",
-    "What time should be included in the cost of a quote?",
-    "How do you calculate the handling cost per quote?",
-    "How do you identify which quoting activity to improve?",
-    "Can faster quoting be counted as additional revenue?",
-    "How do you value time released from preparing quotes?"
+    "Why does the average quote cost hide the useful decision?",
+    "What does a worked quoting-cost calculation look like?",
+    "When does faster quoting help the business financially?"
   ],
-  "answer_capsule": "The cost of quoting includes the work required to prepare and revise a response, the systems supporting it, and any additional effort created by missing or inconsistent information. Waiting affects the customer’s experience and may affect the opportunity, but its financial consequence needs evidence. Counting every elapsed hour as paid labor or lost revenue overstates what the records can show.",
+  "answer_capsule": "Calculate quoting cost by grouping comparable quotes and multiplying time by each role’s hourly cost, then adding relevant direct expenses. Include revisions and review. Separate the cost of preparing the quote from the margin on a won job. Use the calculation to decide where to improve intake, qualify work sooner, or make expert time available for better opportunities.",
   "takeaways": [
-    "Distinguish active work from elapsed waiting.",
-    "Label planning rates and calculations as assumptions.",
-    "Identify what released capacity made possible."
+    "Cost and time by quote type.",
+    "Hours spent on avoidable rework, with examples of why it happened.",
+    "What happened to the capacity the team got back."
   ],
   "faqs": [
     {
-      "question": "What hourly rate should you use for quoting cost?",
-      "answer": "Use a rate whose purpose and basis the business can explain. A planning rate, employment cost, and owner opportunity cost answer different questions. State the chosen basis rather than presenting an assumed rate as a market fact."
+      "question": "What hourly rate should we use?",
+      "answer": "Use a consistent rate for the employment or contracted cost you want to understand. Document which benefits and overhead are included and avoid counting the same cost twice."
     },
     {
-      "question": "Can lost sales be calculated from quote turnaround time alone?",
-      "answer": "No. Timing may matter, but estimating lost sales requires opportunity evidence and consideration of other factors. Do not treat every delayed quote as revenue that would otherwise have been won."
+      "question": "Can we estimate lost revenue from slow quotes?",
+      "answer": "Track actual buyer deadlines, missed opportunities, and stated reasons. Turnaround alone cannot show which jobs you would have won at the same price, scope, and capacity."
     },
     {
-      "question": "Is time released from quoting a cash saving?",
-      "answer": "Only when spending actually falls. If the same paid hours remain, the immediate effect is capacity. Record how that capacity is used before making a revenue or profit claim."
+      "question": "Should we charge for detailed estimates?",
+      "answer": "Consider which work is needed to qualify the opportunity, whether the result has standalone value, and what customers will accept. Try a defined paid investigation or an early range where the effort and uncertainty warrant it."
     }
   ],
-  "sources": [],
+  "sources": [
+    "https://www.fedex.com/en-us/shipping/packaging/what-is-dimensional-weight.html",
+    "https://bec.www.sba.gov/"
+  ],
   "related_ids": [
     "N01",
     "N10"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/cost-of-quoting.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/cost-of-quoting-worksheet.pdf",
+  "share_image": "/fieldnotes/share/cost-of-quoting.png"
 }

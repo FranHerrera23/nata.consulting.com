@@ -1,58 +1,52 @@
 {
   "id": "N11",
-  "h1": "What Makes a Proposal Follow-Up Useful?",
-  "seo_title": "Proposal Follow-Up: What to Say and When to Automate | NATA",
-  "meta_description": "A useful follow-up identifies the decision still open, provides information that helps resolve it, and respects the buyer’s current stage.",
+  "h1": "The Buyer Opened the Proposal. The Project Still Has a Problem.",
+  "seo_title": "How to Follow Up on a Proposal and Help the Buyer Decide | NATA",
+  "meta_description": "Write a proposal follow-up around the buyer’s open decision, with worked examples for scope, approvals, and a changed project date.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "useful-follow-up",
-  "intent": "informational",
-  "intent_evidence": "Decision-support hypothesis; exact search demand unmeasured",
-  "primary_question": "What Makes a Proposal Follow-Up Useful?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/useful-follow-up",
+  "slug": "useful-follow-up",
   "section_questions": [
-    "What should you find out before following up on a proposal?",
-    "When does the proposal itself need fixing before a follow-up?",
+    "What should you find out before following up?",
     "What should a useful proposal follow-up say?",
-    "How do you follow up when two proposal options are hard to compare?",
-    "Which parts of proposal follow-up can be automated?",
-    "When should you stop active proposal follow-up?"
+    "When should you change the proposal or stop sending reminders?"
   ],
-  "answer_capsule": "A useful follow-up identifies the decision still open, provides information that helps resolve it, and respects the buyer’s current stage. A message schedule can support that work. It cannot establish whether the buyer is waiting for an internal discussion, missing a specification, comparing scope, or simply choosing not to proceed.",
+  "answer_capsule": "A useful proposal follow-up names the decision the buyer is working on, gives them something that helps, and asks one question they can answer. Look for a missing comparison, unresolved condition, or changed date. If the proposal itself caused the confusion, fix the relevant section and send the buyer the updated version.",
   "takeaways": [
-    "Distinguish silence from known reasons for delay.",
-    "Fix ambiguity in the proposal and its version history.",
-    "Automate reminders only where state and ownership are clear."
+    "Know the decision the buyer is trying to make.",
+    "Add evidence, an option, or a clarification that changes what they can do.",
+    "Ask one question and record what should happen next."
   ],
   "faqs": [
     {
-      "question": "Is there one best number of days between proposal follow-ups?",
-      "answer": "This guide does not establish a universal cadence. Use agreed checkpoints, the buyer’s stage, and the known pending decision. An invented deadline or repeated generic reminder does not become useful because it follows a schedule."
+      "question": "How many days should you wait before following up?",
+      "answer": "Start with the timing agreed with the buyer and the decision they need to make. Follow up earlier if new information changes price, availability, or a deadline. If timing is unclear, use a brief message to establish it."
     },
     {
-      "question": "Should a paused project stay in an active email sequence?",
-      "answer": "Update the record to reflect the pause and whether future contact is appropriate. A reliable state should prevent an active sequence from contradicting the conversation the team has already had."
+      "question": "Can proposal follow-up be automated?",
+      "answer": "A tool can remind the team about an agreed date or help retrieve the latest proposal. A person should check changes in scope, price, and timing before sending information the buyer will rely on."
     },
     {
-      "question": "Is reply rate enough to measure follow-up quality?",
-      "answer": "No. Check whether the exchange clarified scope, enabled a decision, established a new timeline, or recorded a pause. A reply can be a signal without proving commercial progress."
+      "question": "What if the buyer never replies?",
+      "answer": "Use a reasonable follow-up tied to the decision and offer a way to pause. Record the outcome based on what you know. Review patterns across deals before inferring why a particular buyer went quiet."
     }
   ],
-  "sources": [],
+  "sources": [
+    "https://www.delta.com/us/en/change-cancel/schedule-changes"
+  ],
   "related_ids": [
     "N04",
     "N02"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/useful-follow-up.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/useful-follow-up-worksheet.pdf",
+  "share_image": "/fieldnotes/share/useful-follow-up.png"
 }

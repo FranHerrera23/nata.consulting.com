@@ -1,60 +1,54 @@
 {
   "id": "N04",
-  "h1": "What Should Be Decided Before You Write a Project Proposal?",
-  "seo_title": "Project Proposal Preparation for Design Studios | NATA",
-  "meta_description": "A project proposal should describe an understood assignment: the outcome being pursued, the work included, the inputs required, and the decisions that remain open.",
+  "h1": "The Client Said Yes. What Did They Buy?",
+  "seo_title": "What to Decide Before Writing a Project Proposal | NATA",
+  "meta_description": "Clarify what the client can buy, what the fee assumes, and which decisions must stay open in a design or construction proposal.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "proposal-preparation",
-  "intent": "informational preparation",
-  "intent_evidence": "Adjacent template queries reported; preparation is a distinct task",
-  "primary_question": "What Should Be Decided Before You Write a Project Proposal?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/proposal-preparation",
+  "slug": "proposal-preparation",
   "section_questions": [
-    "What kind of project proposal are you preparing?",
-    "What should a proposal brief contain?",
-    "Which parts of a project proposal can you reuse?",
-    "How do you scope a lighting proposal when the request is unclear?",
-    "How can you check whether the proposal is clear enough to send?",
-    "What should happen to the proposal brief after submission?"
+    "Which decisions have to be made before the fee goes on the page?",
+    "When should you offer a first phase or two options?",
+    "How do you check whether the buyer understood the proposal?"
   ],
-  "answer_capsule": "A project proposal should describe an understood assignment: the outcome being pursued, the work included, the inputs required, and the decisions that remain open. Reusing the document structure helps. Reusing the previous project’s assumptions can create a different assignment from the one the client thinks they are buying.",
+  "answer_capsule": "Before writing a project proposal, decide what the client is buying, what the price assumes, who does the work your offer depends on, and which choices remain open. If there’s a real uncertainty, give the client a way to resolve it before they commit to a price or date that depends on it.",
   "takeaways": [
-    "Define the type of assignment before opening a template.",
-    "Separate reusable information from project-specific judgment.",
-    "Carry the submitted scope into delivery."
+    "State what the buyer will be able to use at the end.",
+    "Name who performs dependent work and what happens if the assumption changes.",
+    "Keep the accepted scope and the open decisions together for the team that starts the job."
   ],
   "faqs": [
     {
-      "question": "Is a proposal preparation record the same as a contract?",
-      "answer": "No. It organizes the assignment and open decisions before submission. The applicable agreement governs the engagement; the record does not replace project-specific contractual or professional review."
+      "question": "Can I send a proposal when the client hasn’t made every decision?",
+      "answer": "Yes, if the client can see what is priced and what remains conditional. Give each unresolved decision an owner and explain which parts of the offer it can change."
     },
     {
-      "question": "Can a studio send a proposal with unresolved questions?",
-      "answer": "Yes, when it makes the uncertainty and its consequences explicit. Clarify whether the proposal is preliminary, limited to an initial stage, or dependent on named inputs before later work can be committed."
+      "question": "What can a firm safely reuse between proposals?",
+      "answer": "Reuse the structure and the language for genuinely standard terms. Confirm deliverables, site assumptions, outside responsibilities, fees, and deadlines for the specific engagement."
     },
     {
-      "question": "Will this preparation guide produce a finished proposal template?",
-      "answer": "No. It helps establish what the proposal should say and what must be resolved. The final format and terms depend on the service, project, and studio."
+      "question": "Who should review a proposal before it goes out?",
+      "answer": "Include someone who will deliver the work and someone who can approve the commercial terms. Review should focus on what the client could reasonably believe the team has promised."
     }
   ],
   "sources": [
-    "https://www.uia-architectes.org/wp-content/uploads/2022/03/guideline_for_procurement_of_architectural_services_2017.11.07.pdf"
+    "https://www.aia.org/resource-center/defining-the-architects-basic-services",
+    "https://designshop.aia.org/products/b101-2017-owner-architect-standard-form-agreement-revised",
+    "https://www.apple.com/shop/trade-in"
   ],
   "related_ids": [
     "N05",
     "N11"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/proposal-preparation.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/proposal-preparation-worksheet.pdf",
+  "share_image": "/fieldnotes/share/proposal-preparation.png"
 }

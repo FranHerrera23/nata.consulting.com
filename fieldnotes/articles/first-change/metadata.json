@@ -1,0 +1,50 @@
+{
+  "id": "N16",
+  "h1": "The First Change Has to Prove Something",
+  "seo_title": "How to Prioritize Process Improvements and Choose a First Test | NATA",
+  "meta_description": "Compare the first changes you could make to a process and choose a test that can inform a real investment decision.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
+  },
+  "revised_date": "2026-11-14",
+  "date_published": "2026-11-05",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/first-change",
+  "slug": "first-change",
+  "section_questions": [
+    "Where does the first useful change sit?",
+    "What should the first investment prove?",
+    "What goes on a one-page decision record?"
+  ],
+  "answer_capsule": "Choose the first process improvement by finding where a recurring loss becomes avoidable. Compare the outcome each change could affect, what a test would teach, and how much it costs to reverse. Name the person who can act and decide what result would justify investing further.",
+  "takeaways": [
+    "Locate the first moment the business can reasonably prevent the loss.",
+    "Test a change that distinguishes between plausible explanations.",
+    "Record the cost of the change and any consequence for the customer."
+  ],
+  "faqs": [
+    {
+      "question": "Should we start with the largest cost?",
+      "answer": "Look at the size of the loss and whether you can influence it. A smaller recurring loss with a clear test may be the better first investment."
+    },
+    {
+      "question": "What if the pilot gives mixed results?",
+      "answer": "Review the cases that improved and the ones that got worse. Different conditions may require different rules. Extend or narrow the test if the answer still affects the decision."
+    },
+    {
+      "question": "When is the pilot ready for a budget decision?",
+      "answer": "When you can describe which work improved, under what conditions, what it cost, and who will own the change at a larger scale."
+    }
+  ],
+  "sources": [
+    "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/",
+    "https://press.aboutamazon.com/2019/2/amazon-prime-members-pick-your-delivery-day-plan-your-week"
+  ],
+  "related_ids": [],
+  "article_pdf": "/fieldnotes/downloads/first-change.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/first-change-worksheet.pdf",
+  "share_image": "/fieldnotes/share/first-change.png"
+}

@@ -1,60 +1,54 @@
 {
   "id": "N05",
-  "h1": "How Do You Keep Client Selections and Approvals Clear?",
-  "seo_title": "Client Approval Process for Interior and Lighting Design | NATA",
-  "meta_description": "A reliable approval record identifies what was decided, which version it applies to, who had authority to approve it, and what that approval permits next.",
+  "h1": "“Looks Good” Is How the Wrong Fixture Gets Ordered",
+  "seo_title": "How to Track Client Selections and Approvals on a Project | NATA",
+  "meta_description": "Record what a client approved, who could authorize it, and whether the team can order, build, or carry a change into the schedule.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "client-approvals",
-  "intent": "informational",
-  "intent_evidence": "Problem evidence adjacent; exact query unmeasured",
-  "primary_question": "How Do You Keep Client Selections and Approvals Clear?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/client-approvals",
+  "slug": "client-approvals",
   "section_questions": [
-    "What does client approval actually authorize?",
-    "What belongs in a client approval record?",
-    "Which approval statuses should a design team distinguish?",
-    "Does approval of a finish also approve a replacement fixture?",
-    "Where should the current approval status be visible?",
-    "How do you check that approval records are working?"
+    "What does a client approval actually authorize?",
+    "How should teams handle a substitution after approval?",
+    "What belongs in an approval record people will actually use?"
   ],
-  "answer_capsule": "A reliable approval record identifies what was decided, which version it applies to, who had authority to approve it, and what that approval permits next. A product preference, design approval, and authorization to purchase can happen at different times. Recording them as one “approved” status leaves the next person guessing.",
+  "answer_capsule": "A useful approval records the exact item and version, who authorized it, what they agreed to, and what action follows. Keep aesthetic selection, technical review, price and schedule changes, and release to order distinct where they have different decision makers or consequences.",
   "takeaways": [
-    "Distinguish preference, specification approval, and purchase authority.",
-    "Link each decision to its exact item and version.",
-    "Keep changes traceable without hiding the current state."
+    "Show exactly which object and revision the client saw.",
+    "Give each decision a clear scope and an authorized person.",
+    "Put an explicit release decision in front of the person who commits the money."
   ],
   "faqs": [
     {
-      "question": "Does every selection change need a new software tool?",
-      "answer": "No. A shared register may be enough if people can identify the current decision, its evidence, and the next action. Consider another tool when the existing arrangement cannot maintain that reliability in actual work."
+      "question": "Can a text message count as an approval?",
+      "answer": "It can record the response. Capture the question it answered, the item or revision, who sent it, and the action authorized under the project’s agreed procedure."
     },
     {
-      "question": "What should happen when a client changes their mind?",
-      "answer": "Keep the previous decision linked as history, identify the changed item and version, and make the new decision and its consequences explicit. Do not overwrite the earlier confirmation as though it never existed."
+      "question": "Does changing a selection require every approval to be repeated?",
+      "answer": "Review which earlier decisions still apply. Reopen the ones affected by the change and show the remaining conditions to the person who will order or install it."
     },
     {
-      "question": "Can a message count as evidence of approval?",
-      "answer": "A message can be recorded as evidence of what was said. Whether it provides the authority required for the next action depends on the project’s agreed process and governing terms; the register should not expand its meaning."
+      "question": "Do you need new software to fix approvals?",
+      "answer": "Start by making the decision and next action visible in the tools the team already checks. Consider a new tool if the process works in a small test and the existing tools cannot reliably preserve versions, ownership or release status."
     }
   ],
   "sources": [
-    "https://www.nngroup.com/articles/ten-usability-heuristics/"
+    "https://aiacontracts.com/documents/g701-change-order",
+    "https://aiacontracts.com/contract-documents/155076-construction-change-directive",
+    "https://sameday.costco.com/store/costco/pages/help"
   ],
   "related_ids": [
     "N04",
     "N07"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/client-approvals.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/client-approvals-worksheet.pdf",
+  "share_image": "/fieldnotes/share/client-approvals.png"
 }

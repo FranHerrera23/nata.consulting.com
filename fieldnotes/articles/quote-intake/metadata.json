@@ -1,60 +1,53 @@
 {
   "id": "N01",
-  "h1": "What Information Should a Materials Supplier Collect Before Preparing a Quote?",
-  "seo_title": "Quote Intake Checklist for Building Materials Suppliers | NATA",
-  "meta_description": "The first job of quote intake is to establish what kind of answer the customer needs.",
+  "h1": "Which Version of the Job Are You Pricing?",
+  "seo_title": "What a Materials Supplier Needs to Prepare a Quote | NATA",
+  "meta_description": "Decide what information a supplier needs for a budget, a firm quote, or a release to order, with a worked example of conflicting project documents.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "quote-intake",
-  "intent": "informational",
-  "intent_evidence": "Adjacent query evidence; exact targeting remains a hypothesis",
-  "primary_question": "What Information Should a Materials Supplier Collect Before Preparing a Quote?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/quote-intake",
+  "slug": "quote-intake",
   "section_questions": [
-    "What kind of answer does the customer need from the quote?",
-    "How should you record missing or conflicting quote information?",
-    "Who needs to be identified in a quote request?",
-    "Which project details should a materials supplier check?",
-    "What if a selection is undecided and the drawings disagree?",
-    "How do you stop the same intake gaps from recurring?"
+    "Why do a budget and a firm quote need different inputs?",
+    "What should you do when the drawings and schedule disagree?",
+    "How do you keep the same intake gap from coming back?"
   ],
-  "answer_capsule": "The first job of quote intake is to establish what kind of answer the customer needs. A preliminary budget, a product recommendation, and a firm quotation require different levels of certainty. Asking every customer for every possible detail can make an early conversation harder without making the eventual quote more reliable.",
+  "answer_capsule": "A materials supplier should collect enough information for the decision the quote supports. A budget needs a stated basis and assumptions. A firm quote needs the governing plans, quantities, specifications, scope, and terms. A release to order also needs confirmed selections and the authority to act. Record missing facts and conflicting instructions beside the line items they affect.",
   "takeaways": [
-    "Establish whether the customer needs budget guidance or a firm quote.",
-    "Give uncertainty a status and a decision owner.",
-    "Investigate why information did not reach the point of use."
+    "Write down the decision the price supports.",
+    "Put the assumption or conflicting quantity beside the affected price.",
+    "Give every open item an owner and an event that must happen before purchasing relies on it."
   ],
   "faqs": [
     {
-      "question": "Do we need every technical detail before giving an early budget?",
-      "answer": "The required certainty depends on the response. Preliminary guidance may be possible on a clearly stated basis, while a firm quotation needs the inputs the supplier considers sufficient. Do not silently present an assumption as a confirmed specification."
+      "question": "Can a supplier quote before the final drawings are issued?",
+      "answer": "It can provide a budget or a conditional price if the available information supports one. Explain which drawings it relies on, what may change and when the figure can become a firm quote."
     },
     {
-      "question": "Should an inquiry form require every field?",
-      "answer": "Require a field when it is needed at that stage and the customer can reasonably answer it. Provide a route for an undecided selection or an early question. A long form can collect more entries without producing a more usable request."
+      "question": "Should the online form require all the information needed to order?",
+      "answer": "Use only the fields needed to take the next useful step. Ask for more when the buyer is ready for a specific quote or release. Make it clear which information is required at each stage."
     },
     {
-      "question": "Will a better intake form remove the need for sales advice?",
-      "answer": "No. It can organize facts and expose gaps. Helping a customer choose or assessing an unusual specification may still require a conversation with the right person."
+      "question": "How should the supplier handle a late revision?",
+      "answer": "Identify the affected line items, confirm the applicable revision with the authorized person, and issue a traceable update. Ask the buyer to confirm which version they’re carrying if the change affects their decision."
     }
   ],
   "sources": [
-    "https://www.bwgsteelframing.com.au/resources/steel-framing-quote-checklist"
+    "https://www.homedepot.com/services/c/carpet-installation/b76e9e302?vfrom=visnav",
+    "https://www.strongtie.com/products/connectors/ics/service-terms"
   ],
   "related_ids": [
     "N08",
     "N15"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/quote-intake.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/quote-intake-worksheet.pdf",
+  "share_image": "/fieldnotes/share/quote-intake.png"
 }

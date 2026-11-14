@@ -1,59 +1,52 @@
 {
   "id": "N10",
-  "h1": "How Do You Measure Whether a Workflow Change Helped?",
-  "seo_title": "How to Measure Workflow Improvement: Time, Quality and Capacity | NATA",
-  "meta_description": "Measure a workflow from a defined starting event to a defined outcome.",
+  "h1": "Your Team Saved 20 Minutes. The Customer Waited Another Day.",
+  "seo_title": "How to Measure a Workflow Improvement | NATA",
+  "meta_description": "Compare handling time, elapsed time, accuracy, and downstream work with a practical before-and-after example for a service business.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "measuring-workflows",
-  "intent": "informational",
-  "intent_evidence": "Method article; exact search demand unmeasured",
-  "primary_question": "How Do You Measure Whether a Workflow Change Helped?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/measuring-workflows",
+  "slug": "measuring-workflows",
   "section_questions": [
-    "What should count as one workflow case?",
-    "What is the difference between handling time and elapsed time?",
-    "What should a workflow baseline record?",
-    "Why is average completion time not enough?",
-    "How do you check whether an improvement moved work elsewhere?",
-    "Are hours saved the same as financial savings?",
-    "How do you decide whether to keep a workflow change?"
+    "Which numbers show what really improved?",
+    "How do you measure whether work moved to another team?",
+    "How do you decide whether the time saved is worth anything?"
   ],
-  "answer_capsule": "Measure a workflow from a defined starting event to a defined outcome. Separate active work, waiting, clarification, and correction. Compare similar cases before and after the change, and record whether quality or effort moved elsewhere. A shorter completion time does not explain by itself what improved.",
+  "answer_capsule": "To measure a workflow improvement, define a comparable case and record elapsed time, employee effort, quality, and what happens next. Include the people who absorb extra work. Compare the same kinds of cases before and after, and decide upfront which result would make the company keep, change, or stop the intervention.",
   "takeaways": [
-    "Keep start, finish, and case types stable.",
-    "Separate handling time from elapsed time and waiting.",
-    "Report capacity, cost savings, and revenue effects accurately."
+    "The point where the buyer or next team can actually use the output.",
+    "Time and corrections across the people doing the work.",
+    "The condition that would make you expand, change, or stop the pilot."
   ],
   "faqs": [
     {
-      "question": "How many cases are enough to prove a workflow improved?",
-      "answer": "There is no universal case count in this guide. State the sample, period, case mix, and limitations. A small trial can inform the next decision without supporting a claim about the entire business."
+      "question": "How many cases are enough to assess a change?",
+      "answer": "Use enough cases to see common variations and important exceptions. A small sample can reveal a failure and help choose a next test. A larger or longer comparison is useful when volume, seasonality, or job mix makes the effect hard to distinguish."
     },
     {
-      "question": "Can a time saving be attributed entirely to a new tool?",
-      "answer": "Only if the evidence supports that attribution. Staffing, complexity, work volume, and other process changes may also affect results. Record those conditions rather than treating every before-and-after difference as the tool’s effect."
+      "question": "Is average completion time enough?",
+      "answer": "Look at the distribution, missed deadlines, and quality as well. Check whether the same types of cases went into each group."
     },
     {
-      "question": "What should you do if speed improves but errors increase?",
-      "answer": "Compare the change with the success and concern conditions agreed for the trial. Include correction effort and customer consequences. Faster handling alone is not sufficient evidence to keep the intervention."
+      "question": "How do you attribute the change to one tool?",
+      "answer": "Keep other conditions as stable as practical and document what else changed. A comparison against a similar group or a staggered trial can help. Treat observational results with the limits their setup warrants."
     }
   ],
-  "sources": [],
+  "sources": [
+    "https://www.aboutamazon.com/news/sustainability/amazon-packaging-lab-photo-tour"
+  ],
   "related_ids": [
     "N13",
     "N15"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/measuring-workflows.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/measuring-workflows-worksheet.pdf",
+  "share_image": "/fieldnotes/share/measuring-workflows.png"
 }

@@ -1,59 +1,63 @@
 {
   "id": "N03",
-  "h1": "What Should Your Website Help a Buyer Decide?",
-  "seo_title": "Service Business Website: Buyer Decisions and Inquiry Handoffs | NATA",
-  "meta_description": "A service business website should help a buyer understand the offer, judge its relevance, inspect credible evidence, identify the people responsible, and know what happens after an inquiry.",
+  "h1": "Would Your Website Get You Invited to Bid?",
+  "seo_title": "What Should a Service Business Website Include? | NATA",
+  "meta_description": "See how buyers judge comparable work, what a project page can prove, and how to decide whether your website needs a rewrite or a rebuild.",
   "language": "en-US",
   "author": {
     "name": "Fran Herrera",
-    "role": "Founder, NATA",
-    "status": "proposed byline; editorial approval not claimed",
-    "photo": null,
-    "profile_url": null
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
   },
-  "prepared_date": "2026-11-04",
-  "revised_date": "2026-11-04",
+  "revised_date": "2026-11-14",
   "date_published": null,
-  "canonical_url": null,
-  "proposed_slug": "website-buyer-decisions",
-  "intent": "buyer evaluation and credibility",
-  "intent_evidence": "Case-based authority; acquisition query not established",
-  "primary_question": "What Should Your Website Help a Buyer Decide?",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/website-buyer-decisions",
+  "slug": "website-buyer-decisions",
   "section_questions": [
-    "What does a buyer need to understand before making an inquiry?",
-    "What makes a service project page credible and useful?",
-    "How should SEO and AEO support a service business website?",
-    "What should happen after someone submits a website inquiry?",
-    "How do you audit a service website without starting another redesign?"
+    "What makes one project better evidence than another?",
+    "What does a buyer actually ask a contractor to prove?",
+    "What changes when the buyer is hiring for design judgment?",
+    "Should you rewrite one project page or redesign the whole site?"
   ],
-  "answer_capsule": "A service business website should help a buyer understand the offer, judge its relevance, inspect credible evidence, identify the people responsible, and know what happens after an inquiry. Its technical build should make that information accessible to people and search systems. The inquiry then needs a reliable handoff so the commercial experience continues beyond submitting a form.",
+  "answer_capsule": "A service business website should explain the work you take on, show a comparable project, and make it easy to start a conversation about a specific assignment. The strongest project pages tell a buyer what the client needed to protect, what your firm was responsible for, and what you delivered. That gives the person forwarding the link a reason to put your name on the list.",
   "takeaways": [
-    "Organize the site around buyer decisions rather than a list of pages to fill.",
-    "Connect narrative, inspectable evidence, and technical delivery.",
-    "Review what happens after the inquiry reaches the business, not only whether the form works."
+    "**“I found three lobbies. I still don’t know if you’ve worked around tenants.”** Rewrite one project page using a documented constraint and your role. Give the revised page to another reader with the same brief.",
+    "**“That occupied renovation is exactly what we need. I only saw it after you sent me the link.”** Give the service page a direct route to the project and label it in the buyer’s language. Repeat the test from the service page.",
+    "**“I understood the case. I sent a message about a May start and the person who called asked me to explain the job again.”** Submit a test inquiry and follow it to the person who replies. Check whether the job details survive the handoff and who covers when that person is away."
   ],
   "faqs": [
     {
-      "question": "Is a portfolio enough for a service business website?",
-      "answer": "A portfolio can provide evidence, but a buyer also needs to understand the service, the firm's role, and the next step. Explain the context that makes the work relevant rather than relying on images to answer every question."
+      "question": "What if we can’t name the client or show the work?",
+      "answer": "Agree on what you can disclose. An approved description can still cover the building type, your role and a constraint you handled. If those details would identify the client, use another project publicly and discuss references through the channels the client permits."
     },
     {
-      "question": "Does CRM integration prove that website leads are handled well?",
-      "answer": "No. Check the receiving owner, record quality, next action, and failure route. Transferring a submission does not establish that someone continued the conversation."
+      "question": "Can we include a project our founder did at a previous firm?",
+      "answer": "Credit the firm that held the contract, describe the founder’s own role and check what you have permission to show. Put the experience in the founder’s bio or label it clearly alongside company work. The buyer can then ask which people and capabilities carry over to their project."
     },
     {
-      "question": "Can an AEO-ready website guarantee AI citations?",
-      "answer": "No. Accessible, relevant, attributable content supports technical readiness. Actual indexing, visibility, and citations must be observed; they should not be presented as guaranteed deliverables."
+      "question": "What should we track after improving a project page?",
+      "answer": "Record whether relevant buyers mention or share the case, whether their inquiries contain enough context to act on, and whether those conversations progress. Keep the counts alongside the period, project type and referral source where known. That makes it easier to tell what’s worth testing next."
     }
   ],
   "sources": [
+    "https://www.sec.gov/Archives/edgar/data/1469372/000119312510156609/d8k.htm",
+    "https://s23.q4cdn.com/716592820/files/doc_news/archive/ec7ba197-b715-4970-a425-dc288287ee98.pdf",
+    "https://www.jrtconstruction.com/featured/ip3",
+    "https://www.bokapowell.com/projects/international-plaza-iii",
+    "https://www.jrtconstruction.com/corporate-interiors/hbk",
+    "https://ocls.org/wp-content/uploads/2024/07/RFQ_24-003_CM_Services.pdf#page=21",
+    "https://ocls.org/wp-content/uploads/2024/07/RFQ_24-003_CM_Services.pdf#page=22",
+    "https://www.fordfoundation.org/news-and-stories/stories/introducing-the-ford-foundation-center-for-social-justice/",
+    "https://www.gensler.com/uploads/document/638/file/Dialogue-34-Gensler.pdf",
+    "https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/our-buildings-history/",
     "https://developers.google.com/search/docs/appearance/ai-features"
   ],
   "related_ids": [
     "N07",
     "N14"
   ],
-  "status": "revised_for_review",
-  "edition": "2.0 TENEX",
-  "live_implementation": false
+  "article_pdf": "/fieldnotes/downloads/website-buyer-decisions.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/website-buyer-decisions-worksheet.pdf",
+  "share_image": "/fieldnotes/share/website-buyer-decisions.png"
 }

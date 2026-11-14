@@ -1,0 +1,51 @@
+{
+  "id": "N17",
+  "h1": "Sales Hit Its Target. The Work Got Worse.",
+  "seo_title": "How to Tell If a Sales KPI Is Causing Operational Problems | NATA",
+  "meta_description": "See when a sales target changes what staff promise, and compare signed work with margin and delivery outcomes.",
+  "language": "en-US",
+  "author": {
+    "name": "Fran Herrera",
+    "role": "Co-founder, Strategy & Operations",
+    "photo": "https://natapoint.com/assets/fran-herrera-mineral.jpg",
+    "profile_url": "https://natapoint.com/about"
+  },
+  "revised_date": "2026-11-14",
+  "date_published": "2026-11-05",
+  "canonical_url": "https://natapoint.com/fieldnotes/articles/metrics",
+  "slug": "metrics",
+  "section_questions": [
+    "How can a sales metric lead people to make worse commitments?",
+    "How do you test whether the target is part of the problem?",
+    "What should the CEO change first?"
+  ],
+  "answer_capsule": "A sales target can create downstream work when it rewards an early event and leaves the cost or quality of the commitment out of view. Trace what changed near the target, check what customers were promised, and compare the sales number with what the company could actually deliver.",
+  "takeaways": [
+    "What does a green number let people assume about the work?",
+    "What gets promised while the sales team is trying to reach it?",
+    "What second result would show whether the company kept those promises?"
+  ],
+  "faqs": [
+    {
+      "question": "Do you need a new KPI for every cost?",
+      "answer": "Choose a few measures tied to actual decisions. If scope corrections and schedule changes tell you where the signed work breaks, start there."
+    },
+    {
+      "question": "Should sales be responsible for delivery problems?",
+      "answer": "Hold sales responsible for commitments it controls and for involving the right people before making others. Trace the problem before assigning accountability."
+    },
+    {
+      "question": "What if the historical data is poor?",
+      "answer": "Start with a small set of signed proposals, delivery records and messages. Add missing fields where the evidence changes a decision, then compare a new set of jobs."
+    }
+  ],
+  "sources": [
+    "https://investor.starbucks.com/files/doc_events/2024/04/SBUX-Corrected-Transcript.pdf",
+    "https://www.sec.gov/files/litigation/admin/2020/34-88257.pdf",
+    "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/"
+  ],
+  "related_ids": [],
+  "article_pdf": "/fieldnotes/downloads/metrics.pdf",
+  "worksheet_pdf": "/fieldnotes/downloads/tools/metrics-worksheet.pdf",
+  "share_image": "/fieldnotes/share/metrics.png"
+}
